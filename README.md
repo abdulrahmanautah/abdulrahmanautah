@@ -1,4 +1,4 @@
- 👋 Hi, I’m @abdulrahmanautah
+ 👋 Hi, I’m Abdulrahman Buhari Auta
 - 👀 I’m interested in ..python programming,python projcets.,machine learning/artificial intelligence
 - 🌱 I’m currently learning .machine learning..
 - 💞️ I’m looking to collaborate with expert in the field, companies for more projects
